@@ -56,9 +56,9 @@
 <h3 align="center">Find Me Online</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/bernard-ochoa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://yourwebsite.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=firefox"></a>
+  <a href="https://bernardochoa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=firefox"></a>
 </p>
 
 <!-- GitHub Stats and Most Used Languages Section -->
