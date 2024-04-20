@@ -18,7 +18,7 @@
   I'm a React 🚀 developer who loves crafting delightful user experiences and bringing ideas to life through code. <br>
   Let's build something incredible together!
 </p>
-
+<a href="https://gitroll.io/profile/upfChDGEcbfRSiuM7dXXqWw9kDM82" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upfChDGEcbfRSiuM7dXXqWw9kDM82" alt="GitRoll Profile Badge"/></a>
 <!-- Tech Stack Section -->
 
 <h3 align="center">Tech Stack</h3>
