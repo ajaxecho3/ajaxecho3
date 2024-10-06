@@ -1,12 +1,5 @@
 <!-- Header Section -->
 <h1 align="center">Hey there, I'm Bernard 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bernard-ochoa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bernard-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ajaxecho3-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://bernardochoa.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-bernardochoa-blue?style=for-the-badge&logo=firefox"></a>
-</p>
-
 <!-- Introduction Section -->
 
 <p align="center">
