@@ -1,9 +1,4 @@
 <!-- Header Section -->
-
-<p align="center">
-  <img src="https://your-image-url.com/your-image.gif" alt="Header Image" width="800">
-</p>
-
 <h1 align="center">Hey there, I'm Bernard 👋</h1>
 
 <p align="center">
